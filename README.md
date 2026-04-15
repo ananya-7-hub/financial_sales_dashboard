@@ -27,7 +27,7 @@ The dashboard enables stakeholders to monitor KPIs, identify trends, and evaluat
   * Comparison of discount bands vs sales and profit
   * Identification of high-discount risk areas
 
-* **Profitability & Margin Analysis**
+* **Profitability and Margin Analysis**
 
   * Product-level profitability insights
   * Segment contribution analysis
@@ -70,7 +70,10 @@ This dashboard helps businesses:
 
 ## 📸 Dashboard Preview
 
-Dashboard_Screenshots
+Dashboard_Screenshots/Executive Overview.png
+Dashboard_Screenshots/Sales Trends and Performance.png
+Dashboard_Screenshots/Discount Impact Analysis.png
+Dashboard_Screenshots/Profitability and Margin Analysis.png
 
 ---
 
