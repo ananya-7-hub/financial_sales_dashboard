@@ -17,7 +17,7 @@ The dashboard enables stakeholders to monitor KPIs, identify trends, and evaluat
   * Profit Margin: 14%
   * Average Monthly Sales: 7.42M
 
-* **Sales Trends & Performance**
+* **Sales Trends and Performance**
 
   * Monthly and quarterly trend analysis
   * Seasonal insights (Q4 peak performance)
