@@ -48,7 +48,6 @@ The dashboard enables stakeholders to monitor KPIs, identify trends, and evaluat
 * Power BI
 * DAX (Data Analysis Expressions)
 * Data Visualization
-
 ---
 
 ## 📂 Project Structure
@@ -71,7 +70,7 @@ This dashboard helps businesses:
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
+Dashboard_Screenshots
 
 ---
 
